@@ -1,0 +1,30 @@
+/* Import the Poppins font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+/* Set the font family for the body */
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Style the h1 heading */
+h1 {
+    font-weight: 600;
+    font-size: 2.5em;
+    color: #212121;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Style the paragraph */
+p {
+    font-weight: 400;
+    font-size: 1.2em;
+    color: #757575;
+    text-align: center;
+    line-height: 1.6;
+    margin: 20px;
+}
