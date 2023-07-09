@@ -1,2 +1,2 @@
-# website
-basic website & git/github Tutorial
+# Website & git/github Tutorial
+A basic website & git/github Tutorial
